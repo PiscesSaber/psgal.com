@@ -1,0 +1,6 @@
+changeFigure:高兴.png -next;
+playEffect:少女娇笑2.mp3;
+雲:太好了，多謝{n1}先生！ -fontSize=default;
+intro:幫助雲找回失去的記憶，以及找到解開鎖的方法。|第一幕 · 與少女的相遇 · 完 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;
+changeScene:hostel.txt
