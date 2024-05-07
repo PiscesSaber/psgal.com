@@ -1,0 +1,7 @@
+bgm:记忆的藤蔓（追忆、神秘）.mp3;
+changeBg: -next;
+intro:到達南京的第一天，|根據書中的描述，你四處打聽寺廟的位置。|夜深了，你終於從一位掃地老人口中得知了寺廟的位置。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:你打算 -fontSize=default;
+choose:直接去:toolate.txt|等第二天一早再去:walk.txt;
+intro:夜深人靜的時候，你漫步在古城牆上... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg: 选择背景图片;

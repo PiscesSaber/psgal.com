@@ -1,0 +1,5 @@
+changeBg:仓库.png -next;
+changeFigure:微笑.png -right -next;
+setAnimation:enter-from-left -target=fig-right -next;
+:要從哪開始調查呢？ -fontSize=default;
+choose:打開下面的箱子:box.txt|Twitter上問問:tw.txt;

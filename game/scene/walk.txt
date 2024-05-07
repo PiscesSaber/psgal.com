@@ -1,0 +1,18 @@
+changeBg:古城墙.png -next;
+changeFigure:锁.png -next;
+雲:現在已經沒什麼人了，你帶着我逛逛南京城吧。 -fontSize=default;
+changeFigure:高兴.png -next;
+setAnimation:shockwaveIn -target=fig-center -next;
+:你同意了，雲迫不及待地從鎖裏飄了出來。 -fontSize=default;
+changeFigure:微笑.png -next;
+雲:許久未見過南京城了，如今已是這番模樣，真是變化萬千啊。 -fontSize=default;
+playEffect:走路-慢.mp3;
+:你們邊走邊聊，有着説不盡的話題。 -fontSize=default;
+changeFigure:高兴.png -next;
+:你看着雲的笑容，一股熟悉感湧上心頭。 -fontSize=default;
+intro:我們什麼時候再來逛一次南京城，就咱倆。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=2000;
+setAnimation:blur -target=fig-center;
+:隨之而來的是一陣頭痛感。 -fontSize=default;
+changeFigure:疑惑.png -next;
+雲:{n1}，你怎麼了？你沒事吧？ -fontSize=default;
+choose:没事，我很好:daytwo.txt|剛剛有點頭疼:daytwo.txt;

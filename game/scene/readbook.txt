@@ -1,0 +1,16 @@
+changeFigure:疑惑.png -next;
+setAnimation:enter-from-right -target=fig-center -next;
+:雲好奇地探過頭來。 -fontSize=default;
+changeFigure:微笑.png -next;
+雲:這些字... 很熟悉的感覺，應當是我所在朝代的。 -fontSize=default;
+playEffect:书本 翻页 多页.mp3;
+:雲快速地翻着書，想要從中找出一些線索。 -fontSize=default;
+changeFigure:高兴.png -next;
+雲:有了！{n1}先生快來看。 -fontSize=default;
+changeFigure:书.png -next;
+:這裏記載了鎖的來歷，{n1}的祖上从南京的一所寺庙中获得，是一位僧人赠予他的。 -fontSize=default;
+changeFigure:微笑.png -next;
+雲:也就是説，我們得去那所寺廟走一趟。 -fontSize=default;
+:南京離你非常遙遠，這將是一場遠行。 -fontSize=default;
+:作為大學生的你，還有即將截止的期末作業，你決定 -fontSize=default;
+choose:和教授商量，作業能不能延期:school.txt|不管了，收拾一下行李就出發:school.txt;

@@ -1,5 +1,5 @@
 changeFigure:疑惑.png -next;
-:少女好奇地看着我。 -fontSize=default;
+:少女好奇地看着我， -fontSize=default;
 changeFigure:闭眼.png -next;
 :聽到我的詢問，少女重新閉上了眼，似乎在思考。 -fontSize=default;
 changeFigure: -next;
