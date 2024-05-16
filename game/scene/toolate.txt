@@ -1,0 +1,6 @@
+changeBg:夜晚寺庙.png -next;
+:寺廟沒有燈，一片漆黑，什麼也看不清。 -fontSize=default;
+changeFigure:哭.png -next;
+雲:黑漆漆的好可怕，還是明日再來吧。 -fontSize=default;
+:雲似乎很害怕黑暗，於是你説 -fontSize=default;
+choose:真拿你沒辦法:walk.txt|其實我也怕黑:walk.txt;

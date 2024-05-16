@@ -1,0 +1,4 @@
+playEffect:工厂工业 金属齿轮 叮当声 快 06.mp3;
+:盒子徹底鎖死了，你用盡辦法都無法打開。 -fontSize=default;
+:結局五：你的錯誤答案鎖死了盒子 -fontSize=default;
+end;

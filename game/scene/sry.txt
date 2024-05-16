@@ -1,0 +1,18 @@
+changeFigure:微笑.png -next;
+少女:抱歉，剛剛失禮了。 -fontSize=default;
+少女:先生可以叫我雲。 -fontSize=default;
+雲:請問先生怎麼稱呼？ -fontSize=default;
+getUserInput:n1 -title=你的稱呼 -buttonText=確認;
+雲:很高興認識你，{n1}先生。 -fontSize=default;
+changeFigure:悲伤.png -next;
+雲:我本該是死了，現在... 大概是靈體？ -fontSize=default;
+changeFigure:微笑.png -next;
+雲:至於為什麼在鎖中... -fontSize=default;
+changeFigure:悲伤.png -next;
+雲:抱歉，我也不清楚。 -fontSize=default;
+changeFigure:微笑.png -next;
+雲:現在似乎只有{n1}先生能幫我。 -fontSize=default;
+changeFigure:悲伤.png -next;
+雲:所以，能否請求先生... -fontSize=default;
+:你选择 -fontSize=default;
+choose:交給我吧:help.txt|對不起:nothelp.txt;

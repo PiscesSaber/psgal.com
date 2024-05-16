@@ -1,0 +1,5 @@
+:你忍住了好奇心，直接離開了。 -fontSize=default;
+changeFigure: -next;
+changeBg:林中小屋.png -next;
+:結局一：你與她的故事並未開始 -fontSize=default;
+end;

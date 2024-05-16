@@ -1,0 +1,18 @@
+changeBg:阁楼.png -next;
+changeFigure:书.png -next;
+:你快速地翻看每一本書，試圖從中找出一些線索。 -fontSize=default;
+:終於，你在一本記錄着寺廟往事的書上找到了隻言片語。 -fontSize=default;
+:據記載，明朝末年，寺廟的主持拿回來的一把鎖，並於三年後贈予了一位有緣人。 -fontSize=default;
+changeFigure:纸条.png -next;
+:你繼續往後翻，發現書裏夾了一張紙條。 -fontSize=default;
+:上面寫着“柒叁叁肆肆柒貳”。 -fontSize=default;
+:你好像有些頭緒了，撥動密碼鎖。 -fontSize=default -when=p==1;
+changeScene:password.txt -when=p==1;
+:除此之外，你並沒有更多的發現了。 -fontSize=default;
+changeFigure:微笑.png -next;
+雲:我在這邊找到一個盒子，快來看。 -fontSize=default;
+changeFigure:关闭的箱子（加锁）_540.png -next; 
+setVar:a=3
+:這個盒子上刻着字，“一生一世，遙遙無期”。 -fontSize=default;
+:打開這個箱子需要輸入一個三位數的數字密碼 -fontSize=default;
+changeScene:password.txt

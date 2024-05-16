@@ -1,0 +1,11 @@
+changeFigure: -next;
+你觀察着這個寺廟每個地方，試圖找到關於鎖的線索。 -fontSize=default;
+:你發現寺廟后面有個小閣樓，門被鎖上了。 -fontSize=default;
+:你選擇 -fontSize=default;
+choose:回去詢問老僧:askseng.txt|把門踹開:选择场景文件;
+changeFigure:老僧2.png -next;
+老僧:你在幹什麼？！快住手！ -fontSize=default;
+:老僧發現了你的無理行為，他把你趕出了寺廟，並且禁止你再次進入。 -fontSize=default;
+changeFigure: -next;
+結局四：你因無禮行為而錯過真相 -fontSize=default;
+end;

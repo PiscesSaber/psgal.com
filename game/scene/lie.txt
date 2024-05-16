@@ -1,0 +1,7 @@
+changeBg:仓库.png -next;
+changeFigure:手机信息.png -next;
+:你把錢轉給了他，他再也沒回復你。 -fontSize=default;
+changeFigure:书.png -next;
+:之後，你和雲找到線索在南京。|但由於沒錢買機票，失去了前去追尋的機會。 -fontSize=default;
+:結局三：你因輕信他人而錯失機會 -fontSize=default;
+end;

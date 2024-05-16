@@ -1,0 +1,7 @@
+changeFigure: -next;
+changeBg:林中小屋.png -next;
+playEffect:硬底鞋 木地板 跑.mp3;
+:你從爺爺家跑了出來，回頭看了一眼。 -fontSize=default;
+playEffect:none;
+:少女並沒有追出來,你決定 -fontSize=default;
+choose:回去:ask.txt|直接離開:end1.txt;

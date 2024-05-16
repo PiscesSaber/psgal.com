@@ -1,0 +1,4 @@
+教授:真的不行呢，你知不知道为什么。 -fontSize=default;
+教授:很想説給你聽，但是原因又真的不好説出來。 -fontSize=default;
+教授:反正就是影響很大，你要知道世界上有很多事情也是這樣發生... -fontSize=default;
+changeScene:hostel.txt

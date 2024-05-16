@@ -1,0 +1,25 @@
+changeFigure:打开的箱子（加锁）_540.png -next;
+playEffect:手提箱 开锁 打开.mp3;
+:你打開了箱子。 -fontSize=default;
+changeFigure:书.png -next;
+:箱子裏放着一本很老舊的書。 -fontSize=default;
+:由於時間久遠，只能依稀讀懂上面的幾個片段。 -fontSize=default;
+playEffect:书本 翻页 多页.mp3;
+:“崇禎十七年春，李自成軍隊攻入北京城... 少年抱着少女衝出火海... ” -fontSize=default;
+:隨着你越往後讀，頭逐漸開始疼痛。 -fontSize=default;
+:但是你並不打算停下，你覺得離真相已經很近了。 -fontSize=default;
+playEffect:书本 翻页 多页.mp3;
+:“我勸他，人死不能復生... 我無法阻攔... ” -fontSize=default;
+:對雲的熟悉感和親密感，以及腦海中不屬於自己的夢還是記憶。 -fontSize=default;
+:“那時... 他奄奄一息... 把鎖托付給我... ” -fontSize=default;
+:“小友，當你來到這的時候... 説明你們成功相遇了... 解開鎖的關鍵是你，你就是鑰匙。” -fontSize=default;
+changeFigure: -next;
+:隨着你看完這最後一句話，你感覺有無數記憶湧入你的腦海。 -fontSize=default;
+setAnimation:shake -target=bg-main;
+:大腦的疼痛讓你在地上蜷縮成一團。 -fontSize=default;
+changeFigure:哭.png -next;
+setAnimation:blur -target=fig-center -next;
+:意識恍惚間，你感覺雲在流着淚叫喚你的名字。 -fontSize=default;
+playEffect:哭.mp3;
+雲:{n1}，你怎麼了，你別嚇我啊... -fontSize=default;
+changeScene:memory.txt

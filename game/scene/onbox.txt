@@ -1,0 +1,8 @@
+:你開始仔細調查每個物品。 -fontSize=default;
+changeFigure:关闭的箱子（加锁）_540.png -next;
+:你發現樂桌子中間夾層的一個盒子，但它被鎖住了。 -fontSize=default;
+:這個盒子上刻着字，“一生一世，遙遙無期”。 -fontSize=default;
+setVar:a=3;
+setVar:p=1;
+:打開這個箱子需要輸入一個三位數的數字密碼，你要試試嗎？ -fontSize=default;
+choose:不了，先去書架那邊找找密碼的線索:onbook.txt|那就試試吧:password.txt;

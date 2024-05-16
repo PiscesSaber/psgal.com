@@ -1,0 +1,10 @@
+changeFigure:微笑.png -next;
+:你選擇了把少女留在身邊。 -fontSize=default;
+changeBg:古城墙.png -next;
+:從此，你到哪都要帶着同心鎖，你們形影不離。 -fontSize=default;
+changeBg:学校路上.png;
+changeBg:宿舍.png;
+:儘管無法觸碰彼此，你們還是能感受到對方的愛意。 -fontSize=default;
+changeFigure: -next;
+:結局六：你不求來世只爭今朝 -fontSize=default;
+end;
