@@ -1,6 +1,6 @@
 Game_name:鎖中少女;
 Game_key:1912de74a6f6668;
-Title_img:林中小屋_540.jpg;
-Title_bgm:记忆的藤蔓（追忆、神秘）.mp3;
+Title_img:林中小屋.png;
+Title_bgm:变奏的梦想.mp3 -vocal= 淮古遗殇 .mp3 -vocal= 淮古遗殇 00_00_29-00_02_00.mp3 -vocal= 淮古遗殇.mp3 -vocal= 淮古遗殇.mp3 -vocal= 淮古遗殇.mp3 -vocal= 淮古遗殇.mp3;
 Textbox_theme:imss;
 Description:;
