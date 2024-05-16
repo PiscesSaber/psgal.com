@@ -1,5 +1,0 @@
-changeFigure:Ken微笑.png -next;
-:教授思考了一會。 -fontSize=default;
-教授:不行。 -fontSize=default;
-教授:反正你也是拖到最後兩天才開始做。 -fontSize=default;
-choose:這次我是真的有急事，求求你了:ddl2.txt|好吧，我知道了:hostel.txt;

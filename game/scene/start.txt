@@ -1,7 +1,0 @@
-; 初始场景，以及特效演示
-bgm:记忆的藤蔓（追忆、神秘）.mp3;
-intro:爺爺去世了，|你到他家幫忙整理遺物。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-changeBg:仓库.png -next;
-changeFigure:箱子 (3)_540.png -next;
-:快整理完時，你突然發現牆角放着兩個箱子，要打開看看嗎？ -fontSize=default;
-choose:打開看看:open.txt|還是算了:end1.txt;
